@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Zachary's GitHub Site
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact me via [email](mailto:zsy@purdue.edu) or visit my website [website](https://zacharysy.com) and I’ll help you sort it out.
