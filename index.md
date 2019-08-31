@@ -2,9 +2,9 @@
 
 # Zachary's First CS193 Homework
 
-- Classes are really interesting
-- Covers many topics that can help in the near future & in the long run
-- Instructors make the classes fun
+-  Classes are really interesting
+-  Covers many topics that can help in the near future & in the long run
+-  Instructors make the classes fun
 
 ### Support or Contact
 
